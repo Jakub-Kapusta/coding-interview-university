@@ -260,7 +260,7 @@ Create a new branch so you can check items like this, just put an x in the brack
 
     git push # just pushes to your fork
     ```
-
+herehere
 ## Don't feel you aren't smart enough
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
