@@ -332,11 +332,16 @@ Read more about choices:
 
 ## Books for Data Structures and Algorithms
 
-herehere
 This book will form your foundation for computer science.
 
 Just choose one, in a language that you will be comfortable with. You'll be doing a lot of reading and coding.
 
+### GO
+
+ - [Learn Data Structures and Algorithms with Golang](https://www.oreilly.com/library/view/learn-data-structures/9781789618501/)
+   - Code repo: https://github.com/PacktPublishing/Learn-Data-Structures-and-Algorithms-with-Golang
+   - Using this.
+ 
 ### C
 
 - [Algorithms in C, Parts 1-5 (Bundle), 3rd Edition](https://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/dp/0201756080)
@@ -349,6 +354,7 @@ Just choose one, in a language that you will be comfortable with. You'll be doin
     - I loved this book. It covered everything and more.
     - Pythonic code
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
+    - Using this.
 
 ### Java
 
@@ -383,8 +389,10 @@ I bought both of these. They gave me plenty of practice.
     - Answers in C++ and Java
     - This is a good warm-up for Cracking the Coding Interview
     - Not too difficult. Most problems may be easier than what you'll see in an interview (from what I've read)
+    - Using this.
 - [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
+    - Using this.
 
 ### If you have tons of extra time:
 
@@ -392,6 +400,7 @@ Choose one:
 
 - [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
 - [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
+  - Using this.
 - [Elements of Programming Interviews (Java version)](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
         - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
@@ -521,9 +530,10 @@ Gets messy quickly. **I use a pencil and eraser.**
 Don't forget your key coding interview books [here](#interview-prep-books).
 
 Solving Problems:
-- [How to Find a Solution](https://www.topcoder.com/thrive/articles/How%20To%20Find%20a%20Solution)
-- [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/thrive/articles/How%20To%20Dissect%20a%20Topcoder%20Problem%20Statement%20Content)
+- [How to Find a Solution](https://www.topcoder.com/thrive/articles/How%20To%20Find%20a%20Solution) (TODO)
+- [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/thrive/articles/How%20To%20Dissect%20a%20Topcoder%20Problem%20Statement%20Content) (TODO)
 
+herehere
 Coding Interview Question Videos:
 - [IDeserve (88 videos)](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
 - [Tushar Roy (5 playlists)](https://www.youtube.com/user/tusharroy2525/playlists?shelf_id=2&view=50&sort=dd)
